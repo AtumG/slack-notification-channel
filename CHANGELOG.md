@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/slack-notification-channel/compare/v3.4.3...3.x)
+## [Unreleased](https://github.com/laravel/slack-notification-channel/compare/v3.4.4...3.x)
+
+## [v3.4.4](https://github.com/laravel/slack-notification-channel/compare/v3.4.3...v3.4.4) - 2025-01-24
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/slack-notification-channel/pull/102
 
 ## [v3.4.3](https://github.com/laravel/slack-notification-channel/compare/v3.4.2...v3.4.3) - 2025-01-20
 
