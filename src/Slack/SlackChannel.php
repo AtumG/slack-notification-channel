@@ -57,6 +57,10 @@ class SlackChannel
             throw new RuntimeException('Slack API call failed with error ['.$response->json('error').'].');
         }
 
+        if(method_exists($notification, 'response')){
+            return $notification->response($response);
+        }
+
         return $response;
     }
 
