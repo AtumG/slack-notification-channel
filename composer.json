@@ -2,7 +2,7 @@
     "name": "atumg/slack-notification-channel",
     "description": "Slack notification channel with response handling",
     "require": {
-        "laravel/slack-notification-channel": "^2.5"
+        "laravel/slack-notification-channel": "^3.4"
     },
     "autoload": {
         "psr-4": {
